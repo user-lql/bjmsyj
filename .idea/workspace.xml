@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e15d399-5d46-4a0d-a4e5-a5006f985190" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-springcloud-service-provider/src/main/java/com/bjmsyj/springcloud/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-springcloud-service-provider/src/main/java/com/bjmsyj/springcloud/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-springcloud-service-provider/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-springcloud-service-provider/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-springcloud-service-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/02-springcloud-service-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mS2nz6DkimanQJTQZEM5jlkDKw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editorconfig.notification" value="lf;" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-springcloud-service-provider-02" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\demo\03-springcloud-eureka-server\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjmsyj.springcloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.02-springcloud-service-consumer">
+    <configuration name="03-springcloud-eureka-server" type="JUnit" factoryName="JUnit">
+      <module name="03-springcloud-eureka-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 01-springcloud-service-provider (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01-springcloud-service-provider" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 03-springcloud-eureka-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03-springcloud-eureka-server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo-web-test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo-web-test" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01-springcloud-service-provider-02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-springcloud-service-provider-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjmsyj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjmsyj.springcloud.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01-springcloud-service-provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-springcloud-service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjmsyj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjmsyj.springcloud.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02-springcloud-service-consumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-springcloud-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjmsyj.springcloud.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-springcloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjmsyj.springcloud.Application8761" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka8761" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="03-springcloud-eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjmsyj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjmsyj.springcloud.Application8762" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka8762" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.03-springcloud-eureka-server" />
+      <item itemvalue="JUnit.All in 01-springcloud-service-provider (1)" />
+      <item itemvalue="JUnit.All in 03-springcloud-eureka-server" />
+      <item itemvalue="Spring Boot.01-springcloud-service-provider" />
+      <item itemvalue="Spring Boot.02-springcloud-service-consumer" />
+      <item itemvalue="Spring Boot.Application8761" />
+      <item itemvalue="Spring Boot.01-springcloud-service-provider-02" />
+      <item itemvalue="Spring Boot.Application8762" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application8762" />
+        <item itemvalue="JUnit.All in 03-springcloud-eureka-server" />
+        <item itemvalue="JUnit.All in 01-springcloud-service-provider (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e15d399-5d46-4a0d-a4e5-a5006f985190" name="Default Changelist" comment="" />
+      <created>1609472849384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609472849384</updated>
+      <workItem from="1609472850633" duration="1826000" />
+      <workItem from="1609549859045" duration="3231000" />
+      <workItem from="1609555122579" duration="12960000" />
+      <workItem from="1609579503741" duration="1903000" />
+      <workItem from="1609581701060" duration="1323000" />
+      <workItem from="1609583207464" duration="2915000" />
+      <workItem from="1609586399204" duration="3838000" />
+      <workItem from="1609590797081" duration="4517000" />
+      <workItem from="1609596614210" duration="873000" />
+      <workItem from="1609597610527" duration="549000" />
+      <workItem from="1609598208252" duration="1489000" />
+      <workItem from="1609599785176" duration="619000" />
+      <workItem from="1609600449847" duration="1066000" />
+      <workItem from="1609601856426" duration="1027000" />
+      <workItem from="1609603160464" duration="33000" />
+      <workItem from="1609635900050" duration="3185000" />
+      <workItem from="1609640382971" duration="3604000" />
+      <workItem from="1609644260176" duration="8184000" />
+      <workItem from="1609662199597" duration="653000" />
+      <workItem from="1609663052051" duration="4884000" />
+      <workItem from="1609673646485" duration="7600000" />
+      <workItem from="1609682348289" duration="1700000" />
+      <workItem from="1610125048826" duration="352000" />
+      <workItem from="1610150897856" duration="4927000" />
+      <workItem from="1610158985190" duration="1148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$Application__2_.ic" NAME="Application (2) Coverage Results" MODIFIED="1609675061064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bjmsyj.springcloud.*</FILTER>
+    </SUITE>
+  </component>
+</project>
